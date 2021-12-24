@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Natix1
+- 👀 I’m interested in computers
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on nobody
+- 📫 How to reach me: You can't!

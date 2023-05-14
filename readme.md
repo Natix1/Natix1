@@ -3,8 +3,20 @@
 ---
 While I might not be '*famous*' at all, here's something about me:
 
+
+
+
 I started with Python around 2 years ago...? It's hard to tell. I never tried another language since then. 🗣️🐍
 I'm coding only for fun. I do not make any money from coding. ❌💵
+
+
+
+
+
+
+
+
+
 
 I'm from Poland and learning English all the time I'm online. 🗣️🗽
 You can add me on discord: `inkquill#2385` (unless I changed my nickname and forgot to update this readme)

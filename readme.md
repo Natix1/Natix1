@@ -1,5 +1,5 @@
 # Hello, there! 👋
-### Welcome to my about page!
+### Welcome to my about page! 🎈
 ---
 I started with Python around 2 years ago...? It's hard to tell. I never tried another language since then. 🗣️🐍
 I'm coding only for fun. I do not make any money from coding. ❌💵

@@ -1,8 +1,7 @@
 # Hello, there! 👋
 ### Welcome to my about page! 🎈
 ---
- 
-  
+
 While I might not be '*famous*' at all, here's something about me: 
 I started with Python around 2 years ago...? It's hard to tell. I never tried another language since then. 🗣️🐍
  

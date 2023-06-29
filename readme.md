@@ -23,7 +23,3 @@ You can add me on discord: `inkquill#2385` (unless I changed my nickname and for
     
     
 ![My statistics](https://github-readme-stats.vercel.app/api?username=Natix1&show_icons=true&theme=synthwave&count_private=true&card_width=1000px)
- 
-  
-   
-# 	![forthebadge](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)  ![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)  [![forthebadge](https://forthebadge.com/images/badges/gluten-free.svg)](https://forthebadge.com)   [![forthebadge](https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg)](https://forthebadge.com)

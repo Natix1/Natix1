@@ -16,7 +16,7 @@ I'm from Poland and learning English all the time I'm online. 🗣️🗽
    
     
     
-You can add me on discord: `inkquill#2385` (unless I changed my nickname and forgot to update this readme)
+You can add me on discord: `natix1` (unless I changed my nickname and forgot to update this readme)
  
   
    

@@ -5,18 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=natix1" alt="natix1" /></a> </p>
 
-- 🔭 I’m currently working at [Ronald's (roblox game)](https://ronaldsgroup.com/)
-
-- 🌱 I’m currently learning **Go, Python, Luau**
-
-- 👨‍💻 Website [https://natixone.xyz](https://natixone.xyz)
-
-- ⚡ Fun fact **I think I'm funny**
+- 🔭 I’m currently working at: [Ronald's (roblox game)](https://ronaldsgroup.com/)
+- 🌱 I’m currently learning: **Go, Python, Luau**
+- 👨‍💻 Website: [https://natixone.xyz](https://natixone.xyz)
+- ⚡ Fun fact: **I think I'm funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/natixdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="natixdev" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/MmXsScn84m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/MmXsScn84m" height="30" width="40" /></a>
+<a href="https://discord.com/users/955090007335530506" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/MmXsScn84m" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

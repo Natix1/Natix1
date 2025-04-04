@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Natix1</h1>
-<h3 align="center">Some kid from Poland that's trying to learn backend</h3>
+<h3 align="center">No clue what to put here</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=natix1&label=Profile%20views&color=0e75b6&style=flat" alt="natix1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=natix1" alt="natix1" /></a> </p>
 
-- 🔭 I’m currently working at: [Ronald's (roblox game)](https://ronaldsgroup.com/)
 - 🌱 I’m currently learning: **Go, Python, Luau**
 - 👨‍💻 Website: [https://natixone.xyz](https://natixone.xyz)
 - ⚡ Fun fact: **I think I'm funny**

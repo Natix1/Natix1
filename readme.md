@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Natix1</h1>
+<h1 align="center">Hi 👋, I'm Natix</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=natix1&label=Profile%20views&color=0e75b6&style=flat" alt="natix1" /> </p>
 - **Luau, Python, Go**
 <h3 align="left">Connect with me:</h3>
